@@ -1,0 +1,3 @@
+[submodule "the-incredible-pytorch"]
+	path = the-incredible-pytorch
+	url = https://github.com/ritchieng/the-incredible-pytorch.git
